@@ -1,24 +1,7 @@
-# Bear へようこそ
-![](TEST%20%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D/Welcome@2x.jpg)
+# TESTプロジェクト
 
-Bear は、ちょっとしたメモの作成はもちろん、長文の執筆にも適した美しい高機能テキストエディタアプリです。 Bear の使い方をマスターするのは簡単。さっそく始めましょう。
 
-## Bear は 3 つのパーツで構成 📐
-Bear には、メモを作成、編集、そして整理するための 3 つのコラムに分かれています:
+## TESTは練習用のプロジェクトです。
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-* **サイドバー** (左側): メモに追加されたタグは、すべてこのサイドバーに表示されます。 いつでも自由に作成して使える、フォルダのようなものとお考えください。
-* **メモリスト** (中央): これまでに作成したメモが、変更日順にリスト表示されます。 よく使う **メモをピン留め** しておくと、常にリストの一番上に表示されるので便利です。
-* **エディタ** (右側): 現在表示されているこの編集画面のことです。 😄
-
-## Bear は多彩な書式にも対応 ✒️
-Bear では **太字**、_斜体_、_下線_、-打ち消し線-、見出し 1-6 など色々な書式設定を使用できます。 各書式のショートカットは _スタイルパネル_ で確認できます:
-
-* Mac の場合は、エディタの右下隅にあるペンのアイコンをクリックします。
-* iPhone および iPad の場合はキーボード上部にある Bear のショートカットバーを使用します。
-
-Bear には豊富なテーマも用意されており、美しく快適な作業環境を常に実現できます。 テーマは、アプリ内で [Bear Pro](bear://x-callback-url/open-bear-pro) のサブスクリプションを購入すると利用できるようになります。
-
-## 複数のメモを相互リンク ⛓
-Bear の最も楽しく便利な機能に「メモリンク」があります。 プロジェクト内の複数のメモ間をすばやく移動したり、選択肢によって展開が変わるストーリーを作成したり、2 つ以上のメモを使ってあるアプリの機能を説明したりする際にとても役立ちます。 たとえば Bear を引き続きご紹介するメモ [[整理して公開]] にも、このメモリンクによって移動できます。 😉
-
-#ようこそ 
+#TEST
